@@ -1,0 +1,22 @@
+node_modules/
+motion/node_modules/
+motion/out/
+motion/.whisper/
+motion/tmp.json
+handover-inputs/
+handover-inputs.zip
+.DS_Store
+# regenerable captures and converted audio (see HANDOVER.md)
+motion/public/audio/*.wav
+motion/public/**/*_scroll/
+motion/public/**/*_enter/
+motion/public/**/*_seq/
+motion/public/vrg/all/
+motion/public/vrg/dark/
+motion/public/vrg/light/
+motion/public/vrg/site/
+motion/public/el/
+motion/public/cn/
+motion/public/func/
+motion/public/ksunch/
+motion/public/qc/

@@ -1,0 +1,6 @@
+Drop your track in this folder as:
+
+    music.wav      (preferred)
+    music.mp3      (fine)
+
+See ../../../audio/MUSIC.md for how the score reads it and how to shape it.
